@@ -8,7 +8,7 @@ module.exports = {
 
   // basic site info (required)
   name: '以为呆猫',
-  domain: 'https://www.notion.so/27741b107fb845e68bba27bf30442a63',
+  domain: 'https://www.notion.so/niubilitydemo/27741b107fb845e68bba27bf30442a63',
   author: 'LeslieZh',
 
   // open graph metadata (optional)
